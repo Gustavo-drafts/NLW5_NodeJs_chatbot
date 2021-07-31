@@ -8,11 +8,11 @@
 
 
 - Estruturando o **`database`** da nossa API
-- Criação de `**migrations`** e seus conceitos e como utiliza-las
-- Como utilizar o `**typeorm`** pra gerenciar entidades
-- O que é o `**ORM**`
+- Criação de **`migrations`** e seus conceitos e como utiliza-las
+- Como utilizar o **`typeorm`** pra gerenciar entidades
+- O que é o **`ORM`**
 - Criação de Repositórios
-- Separamos a lógica da API em `**Services**`
+- Separamos a lógica da API em **`Services`**
 - Conceitos do **Express** e seus métodos, como utiliza-los na nossa API
 - Vimos alguns tipos de parâmetros: `body.params req.params`
 - Parâmetros de rota, parâmetros contidos em **`query`**
